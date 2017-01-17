@@ -4,6 +4,8 @@
 // @include     https://web.whatsapp.com/
 // @version     1
 // @grant       none
+// @updateURL   https://github.com/ninov/watex/raw/master/watex.user.js
+// @downloadURL https://github.com/ninov/watex/raw/master/watex.user.js
 // ==/UserScript==
 
 // katex.min.js from https://github.com/Khan/KaTeX
