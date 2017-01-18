@@ -2,7 +2,6 @@
   "name": "watex",
   "version": "1.0.0",
   "description": "This userscript adds LaTeX support to [WhatsApp  Web](https://web.whatsapp.com).",
-  "main": "watex.user.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +10,7 @@
     "url": "git+https://github.com/ninov/watex.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ninov/watex/issues"
   },
